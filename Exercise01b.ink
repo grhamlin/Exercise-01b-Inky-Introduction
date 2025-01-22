@@ -86,7 +86,7 @@ You found the legendary Golden Shrimp Statue!
 *[Celebrate your victory and return to the entrance] -> cave_mouth
 
 === ate_statue ===
-Not your smartest move, you died :(
+Not your smartest move, it's a metal statue, you died :(
 -> END
 
 
